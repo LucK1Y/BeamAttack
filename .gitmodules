@@ -1,0 +1,6 @@
+[submodule "BODEGA"]
+	path = BODEGA
+	url = https://github.com/piotrmp/BODEGA
+[submodule "clef2024-checkthat-lab"]
+	path = clef2024-checkthat-lab
+	url = https://gitlab.com/checkthat_lab/clef2024-checkthat-lab

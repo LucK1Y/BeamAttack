@@ -1,0 +1,12 @@
+OpenAttack
+editdistance
+bert-score
+git+https://github.com/lucadiliello/bleurt-pytorch.git
+git+https://gitlab.clarin-pl.eu/syntactic-tools/lambo.git
+lime
+numpy
+torch
+tensorflow
+datasets
+transformers
+tqdm
